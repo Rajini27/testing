@@ -9,6 +9,7 @@ public class postStep {
     public void user_should_be_logged_in_and_should_be_present_on_his_wall() {
         System.out.println("user_should_be_logged_in_and_should_be_present_on_his_wall_china");
         System.out.println("user_should_be_logged_in_and_should_be_present_on_his_wall_china1");
+        System.out.println("user_should_be_logged_in_and_should_be_present_on_his_wall_china2");
 
     }
     @When("I type the message in the box")
