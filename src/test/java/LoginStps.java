@@ -3,7 +3,7 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
-public class LoginStps {
+public class LoginStps{
 
     @Given("User is on Login page")
     public void user_is_on_login_page() {
